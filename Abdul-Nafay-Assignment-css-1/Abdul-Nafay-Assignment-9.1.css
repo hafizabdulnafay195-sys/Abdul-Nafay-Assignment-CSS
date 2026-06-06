@@ -1,0 +1,32 @@
+#heading{
+color: aquamarine;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 500%;
+text-align: center;
+}
+
+
+.intro{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 300%;
+text-align: center;
+}
+
+
+#box{
+    color: rgb(155, 143, 143);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 200%;
+text-align: center;
+}
+
+
+
+.box{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 200%;
+text-align: center;
+}
+
