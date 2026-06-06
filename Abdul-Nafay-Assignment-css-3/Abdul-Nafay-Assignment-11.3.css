@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-transform: capitalize;
+}
+
+body{
+    background-color:#d5cdcb;
+}
+
+#navbar{
+    background-color: black;
+    height: 100%;
+    text-align: center;
+    border: 3px solid whitesmoke;
+    padding: 10px 30px;
+}
+
+#logo{
+    font-size: 25px;
+    color: aqua;
+}
+
+
+a{
+    color: wheat;
+    font-size: 25px;
+    margin-right: 250px;
+    text-decoration: none;
+}
+
+button{
+    background-color: aqua;
+}
+
+#content{
+    display: flex;
+    gap: 50px;
+}
+
+figure{
+    background-color:gainsboro;
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    border: solid 10px gainsboro;
+    border-radius: 7%;
+}
+
+.heading{
+    margin: 5px;
+    padding: 5px;
+}
+
+.heading1{
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    margin-top: 70px;
+}
